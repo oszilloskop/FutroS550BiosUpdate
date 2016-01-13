@@ -1,7 +1,7 @@
 ##Futro S550 - BIOS Update (Win/Linux/OS X)
 
 Das neueste Futro S550 BIOS V6.00 Release R1.16.2703.A2 bietet das interessante Feature "Force USB Boot".  
-Das Feature wird seit BIOS V6.00 Release R1.12.2703.A2 unterstützt.  
+(Das Feature wird seit BIOS V6.00 Release R1.12.2703.A2 unterstützt.)  
 Bei aktiviertem Feature wird **immer** von einem ggf. angesteckten USB-Stick gebootet.  
 Auch ohne "F-12, 2 x runter, Enter" Gedöns.
 
