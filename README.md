@@ -15,7 +15,7 @@ Um letztendlich das Update durchführen zu können, muss ein Monitor und eine Ta
 
 ###Worum geht es hier genau?
 Auf meinen Futros waren nur sehr alte BIOS-Versionen, und mit meinem Mac hat das Erstellen des Bios-Update-USB-Sticks nur über üble Umwege funktioniert.  
-Aus diesem Grunde habe ich das Bios-Update-USB-Image aus der von Fujitsu angebotenen .EXE Datei extrahiert und hier mal in Github gepackt:  
+Aus diesem Grunde habe ich das aktuell Bios-Update-USB-Image aus einer von Fujitsu angebotenen .EXE Datei extrahiert und hier mal in Github gepackt:  
 
 Download: [USB-Image - Update Futro S550 BIOS V6.00 Release R1.16.2703.A2](https://raw.githubusercontent.com/oszilloskop/FutroS550BiosUpdate/master/2703A2R116_FD32MB.IMG)
 
