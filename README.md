@@ -1,11 +1,10 @@
 ##Futro S550 - BIOS Update (Win/Linux/OS X)
 
-Das neueste Futro S550 BIOS V6.00 Release R1.16.2703.A2 bietet das interessante Feature "Force USB Boot".  
-(Das Feature wird seit BIOS V6.00 Release R1.12.2703.A2 unterstützt.)  
+Der Futro S550 bietet ab BIOS V6.00 Release R1.12.2703.A2 das interessante Feature "Force USB Boot".  
 Bei aktiviertem Feature wird **immer** von einem ggf. angesteckten USB-Stick gebootet.  
 Auch ohne "F-12, 2 x runter, Enter" Gedöns.
 
-Fujitsu bietet das Futro S550 BIOS hier an:
+Fujitsu bietet hier das aktuelle Futro S550 BIOS an:
 
 http://support.ts.fujitsu.com/Download/ShowFiles.asp?LNG=DE&LNID=5958&intlevel2=24334&intFehlercode=0&NavIDs=
 
@@ -18,7 +17,7 @@ Um letztendlich das Update durchführen zu können, muss ein Monitor und eine Ta
 Mit meinem Mac hat das Erstellen des Bios-Update-USB-Sticks nur über üble Umwege funktioniert.  
 Aus diesem Grunde habe ich das Bios-Update-USB-Image aus der von Fujitsu angebotenen .EXE Datei extrahiert und hier mal in Github gepackt:  
 
-Download: [USB-Image - Update Futro S550 BIOS v6.00.1.16](https://raw.githubusercontent.com/oszilloskop/FutroS550BiosUpdate/master/2703A2R116_FD32MB.IMG)
+Download: [USB-Image - Update Futro S550 BIOS V6.00 Release R1.16.2703.A2](https://raw.githubusercontent.com/oszilloskop/FutroS550BiosUpdate/master/2703A2R116_FD32MB.IMG)
 
 ---
 
