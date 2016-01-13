@@ -2,7 +2,7 @@
 
 Das neueste Futro S550 BIOS v6.00.1.16 vom 05.10.2009 bietet das interessante Feature "Force USB Boot".  
 Bei aktiviertem Feature wird **immer** von einem ggf. angesteckten USB-Stick gebootet.  
-Auch ohne F-12 Gedöns.
+Auch ohne "F-12, 2 x runter, Enter" Gedöns.
 
 Fujitsu bietet das Futro S550 BIOS hier an:
 
