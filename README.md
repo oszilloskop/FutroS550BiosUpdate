@@ -23,7 +23,8 @@ Aus diesem Grunde habe ich das aktuelle BIOS-Update-USB-Image aus einer von Fuji
 
 ###Übertragen des USB-Images auf einen USB-Stick
 - unter Windows -> z.B. das Tool [Win32 Disk Imager](http://sourceforge.net/projects/win32diskimager/) benutzen
-- unter Linux/OS X -> 'dd if=2703A2R116_FD32MB.IMG of=/dev/DeinUsbDevice bs=1m' (z.B. /dev/sdb (ohne 1,2,3 etc.))
+- unter Mac OS X -> z.B. das Tool [ApplePi-Baker](http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker) benutzen
+- unter Linux -> 'dd if=2703A2R116_FD32MB.IMG of=/dev/DeinUsbDevice bs=1m' (z.B. /dev/sdb (ohne 1,2,3 etc.))
 
 ---
 
