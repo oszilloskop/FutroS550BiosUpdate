@@ -1,4 +1,4 @@
-##Futro S550 - BIOS Update (Win/Linux/OS X)
+## Futro S550 - BIOS Update (Win/Linux/OS X)
 
 Der Futro S550 bietet ab BIOS V6.00 Release R1.12.2703.A2 das interessante Feature "Force USB Boot".  
 Bei aktiviertem Feature wird **immer** von einem ggf. angesteckten USB-Stick gebootet.  
@@ -13,7 +13,7 @@ Um letztendlich das Update durchführen zu können, muss ein Monitor und eine Ta
 
 ---
 
-###Worum geht es hier genau?
+### Worum geht es hier genau?
 Auf meinen Futros waren nur sehr alte BIOS-Versionen, und mit meinem Mac hat das Erstellen des BIOS-Update-USB-Sticks nur über üble Umwege funktioniert.  
 Aus diesem Grunde habe ich das aktuelle BIOS-Update-USB-Image aus einer von Fujitsu angebotenen .EXE Datei extrahiert und mal hier in Github abgelegt:  
 
@@ -21,18 +21,18 @@ Aus diesem Grunde habe ich das aktuelle BIOS-Update-USB-Image aus einer von Fuji
 
 ---
 
-###Übertragen des USB-Images auf einen USB-Stick
+### Übertragen des USB-Images auf einen USB-Stick
 - unter Windows -> z.B. das Tool [Win32 Disk Imager](http://sourceforge.net/projects/win32diskimager/) benutzen
 - unter Mac OS X -> z.B. das Tool [ApplePi-Baker](http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker) benutzen
 - unter Linux -> 'dd if=2703A2R116_FD32MB.IMG of=/dev/DeinUsbDevice bs=1m' (z.B. /dev/sdb (ohne 1,2,3 etc.))
 
 ---
 
-###Warum sollte ich das Futro S550 BIOS überhaupt aktualisieren?
+### Warum sollte ich das Futro S550 BIOS überhaupt aktualisieren?
 Ist das neueste BIOS auf dem Futro S550 installiert und ist das Feature "Force USB Boot" aktiviert, so kann z.B. sehr einfach, auch ohne angeschlossene Tastatur, ein Gluon x86 Image auf die interne CF-Karte des Futros kopiert werden (siehe [Gluon2Futro](https://github.com/oszilloskop/Gluon2Futro)).
 
 ---
 
-###Was gibt es zu beachten?
+### Was gibt es zu beachten?
 Ist das Feature "Force USB Boot" aktiviert, so versucht der Futro S550 wirklich **immer** von einem ggf. angeschlossenem USB-Stick zu booten.  
 **Also Obacht, falls dieses nicht gewünscht ist!**
