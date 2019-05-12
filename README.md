@@ -34,5 +34,5 @@ Ist das neueste BIOS auf dem Futro S550 installiert und ist das Feature "Force U
 ---
 
 ### Was gibt es zu beachten?
-Ist das Feature "Force USB Boot" aktiviert, so versucht der Futro S550 wirklich **immer** von einem ggf. angeschlossenem USB-Stick zu booten.  
+Ist das Feature "Force USB Boot" aktiviert, so versucht der Futro S550 wirklich **immer** von einem ggf. angeschlossenen USB-Stick zu booten.  
 **Also Obacht, falls dieses nicht gewünscht ist!**
