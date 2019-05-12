@@ -6,7 +6,7 @@ Auch ohne "F-12, 2 x runter, Enter" Gedöns.
 
 Fujitsu bietet hier das aktuelle Futro S550 BIOS an:
 
-http://support.ts.fujitsu.com/IndexDownload.asp  (hier nach s550 suchen)
+<http://support.ts.fujitsu.com/IndexDownload.asp> (hier nach s550 suchen)
 
 Mit den angebotenen Tools für Windows und Unix kann eine USB-Sticks für ein BIOS Update erstellt werden.  
 Um letztendlich das Update durchführen zu können, muss ein Monitor und eine Tastatur an dem Futro S550 angeschlossen sein.
